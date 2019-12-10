@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pixel Density Calculator</string>
+    <string name="txt_display_width">Ширина в пикселях</string>
+    <string name="txt_display_height">Высота экрана в пикселях</string>
+    <string name="txt_display_size">Размер диагонали</string>
+    <string name="btn_calculate">Рассчитать</string>
+</resources>
